@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CastroCMiguel/Test)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CastroCMiguel/Test)
 - <b>Introduction to Virtual Private Networks (VPNs)</b>
-    - [VPN Setup and Explantion](https://github.com/CastroCMiguel/Test)
+    - [VPN Setup and Explanation](https://github.com/CastroCMiguel/Test)
 - <b> Domain Naming System (DNS) Basics</b>
     - [Using Active Directory to build intuition for DNS](https://github.com/CastroCMiguel/Test)
  - <b> Network Sharing and Permissions</b>
