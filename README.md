@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/CastroCMiguel/Test)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CastroCMiguel/Test)
 - <b>Microsoft Azure</b>
-  - [Azure Crash Course](https://github.com/CastroCMiguel/Test)
+  - [Azure Crash Course](https://github.com/CastroCMiguel/AzureCrashCourse)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CastroCMiguel/Test)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CastroCMiguel/Test)
 - <b>Introduction to Virtual Private Networks (VPNs)</b>
