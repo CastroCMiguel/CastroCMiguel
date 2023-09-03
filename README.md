@@ -8,14 +8,14 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CastroCMiguel/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
   - [Azure Crash Course](https://github.com/CastroCMiguel/AzureCrashCourse)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CastroCMiguel/Test)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CastroCMiguel/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CastroCMiguel/Networksecuritygroups)
 - <b>Introduction to Virtual Private Networks (VPNs)</b>
-    - [VPN Setup and Explanation](https://github.com/CastroCMiguel/Test)
+    - [VPN Setup and Explanation](https://github.com/CastroCMiguel/VPN-Setup-and-Explanation)
 - <b> Domain Naming System (DNS) Basics</b>
-    - [Using Active Directory to build intuition for DNS](https://github.com/CastroCMiguel/Test)
+    - [Using Active Directory to build intuition for DNS](https://github.com/CastroCMiguel/Using-Active-Directory-to-build-intuition-for-DNS)
  - <b> Network Sharing and Permissions</b>
-    - [Network Sharing and Permissions in Active Directory](https://github.com/CastroCMiguel/Test)
+    - [Network Sharing and Permissions in Active Directory](https://github.com/CastroCMiguel/Network-Sharing-and-Permissions-in-Active-Directory)
  
 <h2>🤳Connect with me:</h2>
 
