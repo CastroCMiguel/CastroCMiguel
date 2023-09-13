@@ -14,9 +14,11 @@
     - [VPN Setup and Explanation](https://github.com/CastroCMiguel/VPN-Setup-and-Explanation)
 - <b> Domain Naming System (DNS) Basics</b>
     - [Using Active Directory to build intuition for DNS](https://github.com/CastroCMiguel/Using-Active-Directory-to-build-intuition-for-DNS)
- - <b> Network Sharing and Permissions</b>
+- <b> Network Sharing and Permissions</b>
     - [Network Sharing and Permissions in Active Directory](https://github.com/CastroCMiguel/Network-Sharing-and-Permissions-in-Active-Directory)
- 
+- <b>Cybersecurity</b>
+    - [Capital One 2019 Cloud Attack Case Study](https://github.com/CastroCMiguel/Capital-One-2019-Cloud-Attack-Case-Study)
+
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
